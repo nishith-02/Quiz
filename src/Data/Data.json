@@ -1,0 +1,92 @@
+[
+    {
+        "id":1,
+        "question":"Who is the president of India?",
+        "option1":"Nishith",
+        "option2":"Naruto",
+        "option3":"Sasuke",
+        "option4":"Sakura",
+        "correct":"A"
+    },
+    {
+        "id":2,
+        "question":"Who is the president of USA?",
+        "option1":"Nishith",
+        "option2":"Naruto",
+        "option3":"Sasuke",
+        "option4":"Sakura",
+        "correct":"B"
+    },
+    {
+        "id":3,
+        "question":"Who is the president of France?",
+        "option1":"Nishith",
+        "option2":"Naruto",
+        "option3":"Sasuke",
+        "option4":"Sakura",
+        "correct":"C"
+    },
+    {
+        "id":4,
+        "question":"Who is the president of Leaf-Village?",
+        "option1":"Nishith",
+        "option2":"Naruto",
+        "option3":"Sasuke",
+        "option4":"Sakura",
+        "correct":"D"
+    },
+    {
+        "id":5,
+        "question":"Who wrote Naruto Manga?",
+        "option1":"Nishith",
+        "option2":"Naruto",
+        "option3":"Sasuke",
+        "option4":"Sakura",
+        "correct":"A"
+    },
+    {
+        "id":6,
+        "question":"Who won oscar?",
+        "option1":"Nishith",
+        "option2":"Naruto",
+        "option3":"Sasuke",
+        "option4":"Sakura",
+        "correct":"B"
+    },
+    {
+        "id":7,
+        "question":"Who is the best player in free fire?",
+        "option1":"Nishith",
+        "option2":"Naruto",
+        "option3":"Sasuke",
+        "option4":"Sakura",
+        "correct":"C"
+    },
+    {
+        "id":8,
+        "question":"Who is the best one among the following options?",
+        "option1":"Nishith",
+        "option2":"Naruto",
+        "option3":"Sasuke",
+        "option4":"Sakura",
+        "correct":"D"
+    },
+    {
+        "id":9,
+        "question":"Who is the hokage?",
+        "option1":"Nishith",
+        "option2":"Naruto",
+        "option3":"Sasuke",
+        "option4":"Sakura",
+        "correct":"A"
+    },
+    {
+        "id":10,
+        "question":"Who is the kazakage?",
+        "option1":"Nishith",
+        "option2":"Naruto",
+        "option3":"Sasuke",
+        "option4":"Sakura",
+        "correct":"B"
+    }
+]
